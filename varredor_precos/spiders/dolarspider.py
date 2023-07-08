@@ -27,6 +27,3 @@ class PriceScraperSpider(scrapy.Spider):
 
             email.enviar_email(30)
 
-"""
-EMAIL_ADDRESS = 'machado.david.developer@gmail.com'
-EMAIL_PASSWORD = 'mtiqjlxrkrzhmdxn'"""
